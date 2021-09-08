@@ -4,8 +4,11 @@ Do not open the project with web browser because Twitter API will block requests
 
 Some pages of the project :
 
-<img src="https://user-images.githubusercontent.com/58434964/132572684-97626396-33bc-43e8-997b-d63290b15121.jpg"  width="320" height="700" />
-<img src="https://user-images.githubusercontent.com/58434964/132572713-3b0f21ee-d43b-466c-9e70-2a0c967fca9c.jpg"  width="320" height="700" />
-<img src="https://user-images.githubusercontent.com/58434964/132573536-eb692c17-c004-4bf5-aa6a-4d00d157bef5.jpg"  width="320" height="700" />
-<img src="https://user-images.githubusercontent.com/58434964/132573538-0d26a60a-f52e-46c6-8a2f-ed1794e8bdb6.jpg"  width="320" height="700" />
-<img src="https://user-images.githubusercontent.com/58434964/132573744-75ee0b2d-d685-40b3-84dd-1a4126637b88.jpg"  width="320" height="700" />
+<img src="https://user-images.githubusercontent.com/58434964/132579906-5d4b8b33-07ba-4c93-aa12-c2fe6d3ba078.png"  width="600" height="300" />
+<img src="https://user-images.githubusercontent.com/58434964/132579904-2381421d-3d6c-4f8c-abb7-7ea40d4f1d4f.png"  width="600" height="350" />
+<img src="https://user-images.githubusercontent.com/58434964/132580796-de00a321-53ec-460e-ab4d-e1dd345e600c.png"  width="600" height="300" />
+<img src="https://user-images.githubusercontent.com/58434964/132579905-2d2cbf93-90d4-4d46-aea6-2ef7bba3134c.png"  width="600" height="300" />
+<img src="https://user-images.githubusercontent.com/58434964/132579897-694792ab-d46c-4c2a-869e-da8dd9bba7e9.png"  width="600" height="300" />
+<img src="https://user-images.githubusercontent.com/58434964/132579902-a5b3043f-938c-4373-87ab-d0d4f205c8d0.png"  width="600" height="540" />
+
+
