@@ -165,7 +165,7 @@ export default function SignInScreen(props: any) {
                   }}
                 >
                   <Text style={styles.withoutConnecting}>
-                    Or enter without signing in
+                    Or enter without signining in
                   </Text>
                 </TouchableOpacity>
               </Text>
