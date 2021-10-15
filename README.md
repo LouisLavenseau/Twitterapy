@@ -2,7 +2,7 @@
 React Native mobile application of sentiments analysis of Twitter users.
 Do not open the project with web browser because Twitter API will block requests.
 
-Some pages of the project :
+Some screens of the project :
 
 <img src="https://user-images.githubusercontent.com/58434964/132583827-adcb9d12-7006-48e0-a644-7c84b1b80c81.jpg"  width="300" height="650" />
 <img src="https://user-images.githubusercontent.com/58434964/132583829-6b2f9837-9270-4403-850d-7b164b039be7.jpg"  width="300" height="650" />
